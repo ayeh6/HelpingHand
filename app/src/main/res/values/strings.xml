@@ -13,4 +13,18 @@
         completions."
     </string>
     <string name="username">Username</string>
+    <string-array name="genders">
+        <item>select gender</item>
+        <item>male</item>
+        <item>female</item>
+        <item>other</item>
+    </string-array>
+
+    <string-array name="loads">
+        <item>preferred workload</item>
+        <item>light</item>
+        <item>medium</item>
+        <item>heavy</item>
+    </string-array>
+
 </resources>
